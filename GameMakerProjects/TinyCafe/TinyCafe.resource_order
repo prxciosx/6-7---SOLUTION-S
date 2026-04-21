@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objeto","order":2,"path":"folders/Objeto.yy",},
+    {"name":"hud","order":9,"path":"folders/Objeto/hud.yy",},
+    {"name":"instancia","order":8,"path":"folders/Objeto/instancia.yy",},
+    {"name":"Salas","order":1,"path":"folders/Salas.yy",},
+    {"name":"Sprite","order":3,"path":"folders/Sprite.yy",},
+    {"name":"cliente","order":1,"path":"folders/Sprite/cliente.yy",},
+    {"name":"Instancia","order":7,"path":"folders/Sprite/Instancia.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_block","order":1,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"obj_cafeteira","order":2,"path":"objects/obj_cafeteira/obj_cafeteira.yy",},
+    {"name":"obj_cliente","order":2,"path":"objects/obj_cliente/obj_cliente.yy",},
+    {"name":"obj_lixeira","order":3,"path":"objects/obj_lixeira/obj_lixeira.yy",},
+    {"name":"obj_minigame","order":1,"path":"objects/obj_minigame/obj_minigame.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_cafeteira","order":2,"path":"sprites/spr_cafeteira/spr_cafeteira.yy",},
+    {"name":"spr_clienteangry","order":1,"path":"sprites/spr_clienteangry/spr_clienteangry.yy",},
+    {"name":"spr_clientehappy","order":2,"path":"sprites/spr_clientehappy/spr_clientehappy.yy",},
+    {"name":"spr_lixeira","order":3,"path":"sprites/spr_lixeira/spr_lixeira.yy",},
+    {"name":"spr_minigame","order":4,"path":"sprites/spr_minigame/spr_minigame.yy",},
+  ],
+}
